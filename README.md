@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sistema de Gestão de Segurança e Recursos das Indústrias Wayne
 Visão Geral do Projeto
 Este projeto é uma aplicação web full stack desenvolvida para otimizar os processos internos e fortalecer a segurança de Gotham City, atendendo às necessidades das renomadas Indústrias Wayne. A plataforma oferece um sistema robusto de gerenciamento de segurança e recursos, com controle de acesso e visualização de dados em tempo real.
@@ -215,3 +216,7 @@ Excluir: Clicar no botão "Excluir" para remover um item.
 Nota: As ações de Adicionar, Editar e Excluir são visíveis apenas para usuários com permissões de gerenciamento (superusuário, Gerente, Administrador de Segurança).
 
 Utilização do Google Gemini para correção da gramática do Readme.md
+=======
+# ProjetoFinal
+Projeto final da Infinity School. Apesar de ser projeto do curso, conta com uma complexidade de códigos. Usados node.js, django e react.js.
+>>>>>>> 83cc93d21557a6c7c4f2960285cd3501e059de18
